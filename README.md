@@ -3,4 +3,7 @@
 ### line changed locally conflict demo version b 
 Fun practice branch edits by Suzy 😊🌺
 sunday try commit demo 🌺🌺
-sunday second commit practice 🌺🌺🌺😊
+sunday second commit practice 
+sunday jupyterpractice conflict-a
+sunday conflict-b commit practice
+pull request practice sunday
