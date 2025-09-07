@@ -4,4 +4,3 @@
 Fun practice branch edits by Suzy 😊🌺
 sunday try commit demo 🌺🌺
 sunday second commit practice 🌺🌺🌺😊
-sunday jupyterpractice conflict-a
